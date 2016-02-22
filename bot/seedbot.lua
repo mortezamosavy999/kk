@@ -229,7 +229,8 @@ function create_config( )
     sudo_users = {67255537,167912005,93213608,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[]
+    about_text = [[
+@indexTG
 
 ]],
     help_text_realm = [[
